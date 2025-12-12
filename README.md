@@ -9,12 +9,12 @@ The goal of this project is to analyze sales performance, customer behavior and 
 2)	SQL: Running exploratory and analytical queries to reveal deeper insights.
 3)	Power BI: Designing an interactive dashboard with visual for decision making.
 
-Excel Data Cleaning
+## Excel Data Cleaning ##
 Key steps Performed: 
-•	Corrected data types
-•	Bolden the header of the columns
-•	Trimmed extra spaces
-•	Created a column for Total Sales
+1)	Corrected data types
+2)	Bolden the header of the columns
+3)	Trimmed extra spaces
+4)	Created a column for Total Sales
 
 SQL Analysis
 I used the SQL for deeper exploration and insights.
