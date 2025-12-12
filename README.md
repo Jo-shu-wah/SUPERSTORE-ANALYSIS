@@ -1,5 +1,5 @@
 #SUPERSTORE ANALYSIS PROJECT#
-## Excel Cleaning SQL Queries Power BI Dashboard ##
+ Excel Cleaning SQL Queries Power BI Dashboard 
 This project is a complete end to end data analysis workflow using the Superstore Sales dataset. It covers data cleaning in Excel, generating insightful SQL queries, and building an interactive Power BI report for sales, profit, Quantity, and product insights.
 Project Overview
 The goal of this project is to analyze sales performance, customer behavior and regional trends using a structured workflow:
