@@ -43,7 +43,7 @@ I used the SQL for deeper exploration and insights.
 6)  I used interactive elements like buttons, navigations and Dynamic Visual
 
 
-##Some insights discovered from the analysis includes ##
+## Some insights discovered from the analysis includes ##
 1)Home office segment has the highest sales
 2)	The west region has the strongest overall performance
 3)	Most sales happened in 2017
