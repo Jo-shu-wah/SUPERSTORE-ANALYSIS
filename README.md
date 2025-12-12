@@ -8,6 +8,11 @@ The goal of this project is to analyze sales performance, customer behavior and 
 1)	Excel: Cleaning, formatting, error check and preparing data for data analysis.
 2)	SQL: Running exploratory and analytical queries to reveal deeper insights.
 3)	Power BI: Designing an interactive dashboard with visual for decision making.
+   
+ ##  Tools Used ##
+•	Microsoft Excel
+•	SQL Server Management System
+•	Power BI
 
 ## Excel Data Cleaning ##
 Key steps Performed: 
@@ -18,7 +23,7 @@ Key steps Performed:
 
 ## SQL Queries ##
 I used the SQL for deeper exploration and insights.
-### Some queries include ###:
+### Some queries include :
 1)	Categories that generated the most sales.
 2)	The top five states that generated the most profits.
 3)	Products that are not making profit
@@ -30,25 +35,20 @@ I used the SQL for deeper exploration and insights.
 ## Power BI dashboard ##
 ### The final power BI contains: ###
 ### Main features ###
-1) Total Sales
+1)  Total Sales
 2)	Total Profit
 3)	Quantity
 4)	Average Profit
 5)	Filters and Slicers for Order date, categories, ship mode, city 
+6)  I used interactive elements like buttons, navigations and Dynamic Visual
 
-I used interactive elements like buttons, navigations and Dynamic Visual
 
-Tools Used
-•	Microsoft Excel
-•	SQL Server Management System
-•	Power BI
-
-Some insights discovered from the analysis includes
-•	Home office segment has the highest sales
-•	The west region has the strongest overall performance
-•	Most sales happened in 2017
-•	Standard class was the most commonly used ship mode
-•	Technology generated the highest revenue
-•	The West region has the highest customersss
-•	The furniture category has the lowest profit margin of 0.5%
+##Some insights discovered from the analysis includes ##
+1)Home office segment has the highest sales
+2)	The west region has the strongest overall performance
+3)	Most sales happened in 2017
+4)	Standard class was the most commonly used ship mode
+5)	Technology generated the highest revenue
+6)	The West region has the highest customersss
+7)	The furniture category has the lowest profit margin of 0.5%
 
