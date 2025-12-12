@@ -16,25 +16,25 @@ Key steps Performed:
 3)	Trimmed extra spaces
 4)	Created a column for Total Sales
 
-SQL Analysis
+## SQL Queries ##
 I used the SQL for deeper exploration and insights.
-Some queries include:
-•	Categories that generated the most sales.
-•	The top five states that generated the most profits.
-•	Products that are not making profit
-•	How many products ordered on 11/8/2016
-•	Customers that stay in Lost Angeles
-•	List of customers that ordered furniture
-•	Number of sales made in Philadelphia
+### Some queries include ###:
+1)	Categories that generated the most sales.
+2)	The top five states that generated the most profits.
+3)	Products that are not making profit
+4)	How many products ordered on 11/8/2016
+5)	Customers that stay in Lost Angeles
+6)	List of customers that ordered furniture
+7)	Number of sales made in Philadelphia
 
-Power BI dashboard
-The final power BI contains:
-Main features
-•	Total Sales
-•	Total Profit
-•	Quantity
-•	Average Profit
-•	Filters and Slicers for Order date, categories, ship mode, city 
+## Power BI dashboard ##
+### The final power BI contains: ###
+### Main features ###
+1) Total Sales
+2)	Total Profit
+3)	Quantity
+4)	Average Profit
+5)	Filters and Slicers for Order date, categories, ship mode, city 
 
 I used interactive elements like buttons, navigations and Dynamic Visual
 
